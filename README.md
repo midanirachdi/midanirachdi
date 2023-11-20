@@ -5,28 +5,23 @@
 
 <section>
   <h2>Connect with me</h2>
-  <nav>
-    <ul>
-      <li>
-        <a href="https://twitter.com/rachdimidani" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachdimidani" height="30" width="40" />
-          Twitter
-        </a>
-      </li>
-      <li>
-        <a href="https://linkedin.com/in/midanirachdi" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midanirachdi" height="30" width="40" />
-          LinkedIn
-        </a>
-      </li>
-      <li>
-        <a href="https://medium.com/@midani" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midani" height="30" width="40" />
-          Medium
-        </a>
-      </li>
-    </ul>
-  </nav>
+  <ul>
+    <li>
+      <a href="https://twitter.com/rachdimidani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachdimidani" height="30" width="40" />
+      </a>
+    </li>
+    <li>
+      <a href="https://linkedin.com/in/midanirachdi" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midanirachdi" height="30" width="40" />
+      </a>
+    </li>
+    <li>
+      <a href="https://medium.com/@midani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midani" height="30" width="40" />
+      </a>
+    </li>
+  </ul>
 </section>
 
 <section>
