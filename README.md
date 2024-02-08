@@ -1,5 +1,5 @@
 <section>
-  <h1>Hi 😁, I'm Midani</h1>
+  <h1>Hello I'm Midani</h1>
   <p>Senior Software Engineer (Frontend), runner and self-proclaimed abstract artist</p>
 </section>
 
