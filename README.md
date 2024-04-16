@@ -1,6 +1,6 @@
 <section>
   <h1>Hello I'm Midani</h1>
-  <p>Senior Software Engineer (Frontend), runner and self-proclaimed abstract artist</p>
+  <p>Senior Software Engineer (Frontend)</p>
 </section>
 
 <section>
