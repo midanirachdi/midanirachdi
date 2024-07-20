@@ -5,7 +5,7 @@
 
 <section>
   <h2>Connect with me</h2>
-  <ul style="display: flex; justify-content: space-around; list-style: none; align-items: center; padding: 0;">
+  <ul>
     <li>
       <a href="https://twitter.com/rachdimidani" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachdimidani" height="30" width="40" />
