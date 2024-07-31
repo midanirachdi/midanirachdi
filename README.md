@@ -18,18 +18,3 @@
     </li>
   </ul>
 </section>
-
-<section>
-  <h2>
-    fwa
-  </h2>
-  <a href="https://thefwa.com/cases/foxs-jolly-adventure">
-   link
-  </a>
-</section>
-
-<section>
-  <figure>
-    <img src="https://komarev.com/ghpvc/?username=midanirachdi&label=Profile%20views&color=0e75b6&style=flat" alt="midanirachdi" />
-  </figure>
-</section>
