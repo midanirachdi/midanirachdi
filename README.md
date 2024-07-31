@@ -20,12 +20,12 @@
 </section>
 
 <section>
-  <h2>Support</h2>
-  <p>
-    <a href="https://ko-fi.com/midanirachdi">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="midanirachdi" />
-    </a>
-  </p>
+  <h2>
+    fwa
+  </h2>
+  <a href="https://thefwa.com/cases/foxs-jolly-adventure">
+   link
+  </a>
 </section>
 
 <section>
